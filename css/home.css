@@ -1,0 +1,160 @@
+@font-face {
+    font-family: 'Stafford Serial';
+    src: url('../webfonts/stafford-serial-extrabold-regular.ttf') format('truetype');
+  }
+
+
+body{
+    padding-left: 10%;
+    padding-right: 10%;
+}
+a {
+    text-decoration: none;
+    font-weight: bold;
+    color: black;
+    letter-spacing: -1px;
+    
+}
+ a:hover, a:focus, a:active{
+    color: red;
+    
+ }
+ .Nav-color{
+    background-color: red;
+ }
+#Nav_A{
+    color: white;
+     font-size: 4rem;
+     letter-spacing: 0px; 
+     font-weight: 500;
+     font-family: 'Stafford Serial', sans-serif;
+     padding-top: 1px;
+
+}
+.nav-link {
+color: black ;
+padding-top: 20px;
+}
+.Podcasts{
+    border-style: solid;
+    padding: 25px;
+    border-width: 3px;
+    border-color: aliceblue;
+}
+.newsletter{
+    border-style: solid;
+    padding: 25px;
+    border-width: 3px;
+    border-color: aliceblue;
+}
+.newsletter-header{
+    padding: 20px;
+    background: #fff;
+    width: 100%;
+}
+.newsletter-content{
+    padding: 30px;
+    font-weight: 700;
+    font-size: 18px;
+    text-align: center;
+}
+.newsletter_learnmore a{
+    padding-top: 10px;
+    text-align: center;
+    color: red;
+}
+
+.Show{
+    border-style: solid;
+    padding: 25px;
+    border-width: 3px;
+    border-color: aliceblue;
+}
+.inner-show-header img{
+   width: 100%;
+}
+.InTheMagzine-inner img  , .inner-features img ,.editor-pack-inner img , .inner-us-body img {
+    width: 100%;
+}
+.more-stories-inner img{
+    width: 100%;
+}
+.inner-video-text-tab{
+    background-color: black;
+    color: #fff;
+}
+.inner-video-text-tab a{
+    color: #fff;
+    word-spacing: -1px;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif ;
+}
+.inner-video-text-tab{
+     padding: 40px 10px;
+}
+.inner-video-main-video-tab iframe{
+height: 100%;
+width: 100%;
+}
+.inner-video-main-video{
+    height: 100%;
+    width: 100%;
+}
+.btn-fsu{
+    /* display: inline-block; */
+  /* border-radius: 4px; */
+  background-color: #f4511e;
+  border: none;
+  color: #FFFFFF;
+  text-align: center;
+  /* font-size: 28px; */
+  padding: 5.8px 8px ;
+  cursor: pointer;
+}
+.btn-subscribe{
+    background-color: #f4511e;
+    border: none;
+    color: #FFFFFF;
+    text-align: center;
+    /* font-size: 28px; */
+    padding: 5.8px 8px ;
+    cursor: pointer;
+    font-weight: bolder;
+}
+.email-fsu{
+    padding: 5px 2px;
+    border-color:darkgrey;
+    border-width: 0.2px;
+    text-align: center;
+    width:125px;
+}
+.subscribe-box{
+    background-color: aliceblue;
+}
+.subcribe-img img{
+width: 100%;
+padding: 20px 20px;
+}
+.subscribe-box-text h4{
+    padding-top:80px;
+}
+.subscribe-box-text{
+    padding-bottom: 50px;
+}
+.snl-main{
+    padding-top: 50px;
+}
+
+.nav-item-customize a {
+    font-weight:normal;
+    padding: 5px 10px;
+}
+
+
+.fotter-lo{
+    font-weight: bolder;
+    font-size: 3rem;
+    font-family: 'Stafford Serial', sans-serif;
+    word-spacing: -5px;
+    color: #f4511e;
+}
+
